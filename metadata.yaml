@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '8836'
     url: http://www.gutenberg.org/2009/agents/8836
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19721#The-Literary-World-Seventh-Reader
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2006-11-05'
 gutenberg_type: Text
