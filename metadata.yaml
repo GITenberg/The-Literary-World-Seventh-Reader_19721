@@ -34,6 +34,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Readers'
 - !lcc 'PE'
+- GITenberg
 tableOfContents: Rip Van Winkle, by Irving -- The Great Stone Face, by Hawthorne --
   The Courtship of Miles Standish, by Longfellow -- The Friendship of Nantaquas, by
   Johnston -- Harry Esmond's Boyhood, by Thackeray -- The Family Holds Its Head Up,
